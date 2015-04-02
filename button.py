@@ -1,4 +1,4 @@
-# script to push the button every 10 min
+# script to push the button every 30 sec
 
 from selenium import webdriver
 import time
