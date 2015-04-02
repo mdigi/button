@@ -1,5 +1,5 @@
 # button
-This script pushes Krieger's button every 10 minutes on http://algersoft.net/kriegerathome/. To stop, manually close the Firefox session and python console.
+This script pushes Krieger's button every 30 seconds on http://algersoft.net/kriegerathome/. To stop, manually close the Firefox session and python console.
 
 ##Stuff you'll need
 * firefox
