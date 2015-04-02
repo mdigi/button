@@ -9,10 +9,8 @@ page = webdriver.Firefox()
 page.get(url)
 
 while 1:
-    # wait 10 min
-    for i in range(10):
-        print 10 - i, 'min left'
-        time.sleep(60)
+    # wait 30 seconds
+    time.sleep(30)
 
     # refresh page, wait 2 seconds, then click button
     page.refresh()
